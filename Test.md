@@ -28,10 +28,10 @@ Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan
 ---
 ## Bisakah menggunakan kode $\LaTeX{}$?
 
-Simbol dan persamaan inline dalam suatu teks dituliskan di antara sepasang tanda _single dollar_. Tampilan $\LaTeX{}$, atau simbol huruf Yunani: $\alpha, \beta, \gamma,\$
+Simbol dan persamaan inline dalam suatu teks dituliskan di antara sepasang tanda _single dollar_. Tampilan $\LaTeX{}$, atau simbol huruf Yunani: $\alpha, \beta, \gamma,\epsilon,\xi$ dlsb. Juga persamaan inline: $E=mc^2$, $\vec{F}=\dfrac{d\vec{p}}{dt}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDQ2MDg1NiwtMTM3MzM0MTE5MCwtMz
+eyJoaXN0b3J5IjpbLTI5NTE1OTcyOSwtMTM3MzM0MTE5MCwtMz
 A2MDc1ODYyXX0=
 -->
