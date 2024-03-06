@@ -16,10 +16,17 @@ Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan
 ### 06032024
 
 > kutipan 
->  
+> kutipan berikutnya
+>> sub kutipan
+
+`kode` inline pada suatu teks.
+
+``bagaimana dengan yang ini?``
+
+```Kalau yang ini bagaimana? Apa bedanya menggunakan tiga tanda ap 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjk0Njc3NSwtMTM3MzM0MTE5MCwtMz
-A2MDc1ODYyXX0=
+eyJoaXN0b3J5IjpbMzgyNDM1NzUxLC0xMzczMzQxMTkwLC0zMD
+YwNzU4NjJdfQ==
 -->
