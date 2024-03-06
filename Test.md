@@ -30,10 +30,13 @@ Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan
 
 Simbol dan persamaan inline dalam suatu teks dituliskan di antara sepasang tanda _single dollar_. Tampilan $\LaTeX{}$, atau simbol huruf Yunani: $\alpha, \beta, \gamma,\epsilon,\xi$ dlsb. Juga persamaan inline: $E=mc^2$, $\vec{F}=\tfrac{d\vec{p}}{dt}$. 
 
-Sedangkan untuk displayed equation dituliskan di antara 
+Sedangkan untuk displayed equation dituliskan di antara tanda _double dollar_. Misalnya persamaan berikut ini:
+$$
+I=\frac{1}{2\pi\,i}\oint\limits_{\substack{\text{lintasan}\\ \text{khusus}}} \frac{e^{(-)}}{}
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjY5MzgxMywtMTM3MzM0MTE5MCwtMz
+eyJoaXN0b3J5IjpbLTg4NTEzMjgyMCwtMTM3MzM0MTE5MCwtMz
 A2MDc1ODYyXX0=
 -->
