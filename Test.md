@@ -23,10 +23,10 @@ Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan
 
 ``bagaimana dengan yang ini?``
 
-```Kalau yang ini bagaimana? Apa bedanya menggunakan tiga tanda ap 
+```Kalau yang ini bagaimana? Apa bedanya menggunakan tiga tanda apostrof (?)``` 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNDM1NzUxLC0xMzczMzQxMTkwLC0zMD
-YwNzU4NjJdfQ==
+eyJoaXN0b3J5IjpbLTExNzU0OTg0MzgsLTEzNzMzNDExOTAsLT
+MwNjA3NTg2Ml19
 -->
