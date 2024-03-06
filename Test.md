@@ -43,10 +43,10 @@ $$
 \end{tikzpicture}
 $$
 
-Ternyata tidak bisa, karena jenis $\LaTeX{}$ yang digunakan di {}
+Ternyata tidak bisa, karena jenis $\LaTeX{}$ yang digunakan di [Stackedit](stackedit.io) ini rupanya adalah $\KaTeX{}$ yang tidak mengenali paket TikZ.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjYxNTYxNSwtMTM3MzM0MTE5MCwtMz
+eyJoaXN0b3J5IjpbMTE5MzM0NzM1MywtMTM3MzM0MTE5MCwtMz
 A2MDc1ODYyXX0=
 -->
