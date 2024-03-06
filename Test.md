@@ -39,12 +39,12 @@ $$
 
 $$
 \begin{tikzpicture}
-\
+\draw (0,0) rectangle ++(2,2);
 \end{tikzpicture}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjkxMDM4OCwtMTM3MzM0MTE5MCwtMz
-A2MDc1ODYyXX0=
+eyJoaXN0b3J5IjpbNTk1ODYyNDU2LC0xMzczMzQxMTkwLC0zMD
+YwNzU4NjJdfQ==
 -->
