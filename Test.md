@@ -43,8 +43,10 @@ $$
 \end{tikzpicture}
 $$
 
+Ternyata tidak bisa, karena jenis $\LaTeX{}$ yang digunakan di {}
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODYyNDU2LC0xMzczMzQxMTkwLC0zMD
-YwNzU4NjJdfQ==
+eyJoaXN0b3J5IjpbMjAzMjYxNTYxNSwtMTM3MzM0MTE5MCwtMz
+A2MDc1ODYyXX0=
 -->
