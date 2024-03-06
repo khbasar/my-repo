@@ -12,5 +12,5 @@ Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjA3NTg2MiwxNzkxNDQxNzYyXX0=
+eyJoaXN0b3J5IjpbLTMwNjA3NTg2Ml19
 -->
