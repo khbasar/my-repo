@@ -25,8 +25,13 @@ Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan
 
 ```Kalau yang ini bagaimana? Apa bedanya menggunakan tiga tanda apostrof (?)``` 
 
+---
+## Bisakah menggunakan kode $\LaTeX{}$?
+
+Simbol 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU0OTg0MzgsLTEzNzMzNDExOTAsLT
+eyJoaXN0b3J5IjpbLTExNjMzMTMxMTAsLTEzNzMzNDExOTAsLT
 MwNjA3NTg2Ml19
 -->
