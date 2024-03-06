@@ -8,9 +8,9 @@ $$ \alpha \beta \gamma \sin(x)$$
 * Item 
 * item
 
-Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan demikian tulisan yang dibuat melalui browser di [enter link description here](https://stackedit.io)
+Sedang dicoba memanfaatkan fasilitas synchronize dengan folder di github. Dengan demikian tulisan yang dibuat melalui browser menggunakan [Stackedit](https://stackedit.io) akan langsung tersimpan di folder yang ada di [Github](github.com/khbasar).
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDA5NTE2LDE3OTE0NDE3NjJdfQ==
+eyJoaXN0b3J5IjpbLTMwNjA3NTg2MiwxNzkxNDQxNzYyXX0=
 -->
