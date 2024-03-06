@@ -32,11 +32,19 @@ Simbol dan persamaan inline dalam suatu teks dituliskan di antara sepasang tanda
 
 Sedangkan untuk displayed equation dituliskan di antara tanda _double dollar_. Misalnya persamaan berikut ini:
 $$
-I=\frac{1}{2\pi\,i}\oint\limits_{\substack{\text{lintasan}\\ \text{khusus}}} \frac{e^{(-)}}{}
+I=\frac{1}{2\pi\,i}\oint\limits_{\substack{\text{lintasan}\\ \text{khusus}}} \frac{e^{(-2i\theta)}}{\theta^2}\;d\theta
+$$
+
+### Bisakah menampilkan gambar yang dibuat menggunakan TikZ?
+
+$$
+\begin{tikzpicture}
+\
+\end{tikzpicture}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTEzMjgyMCwtMTM3MzM0MTE5MCwtMz
+eyJoaXN0b3J5IjpbMTU5NjkxMDM4OCwtMTM3MzM0MTE5MCwtMz
 A2MDc1ODYyXX0=
 -->
